@@ -1,0 +1,70 @@
+.Sign-Model {
+    background-color: rgba(128, 123, 123, 0.644);
+    margin: 1% auto 15% auto;
+    border: 1px solid #888;
+    width: 35%;
+    padding: 2%;
+
+}
+
+.Sign-Model h1 {
+    margin: 5% auto 15% auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Sign-Model p {
+    margin-top: -12%;
+    margin-bottom: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.Sign-Model a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+
+}
+
+.Slable {
+    font-weight: 600;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.Scontrol {
+    margin-bottom: 1%;
+}
+
+.Sbutton {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 100%;
+}
+
+.SCanl-But {
+    background-color: red;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 100%;
+
+}
+
+.Spsw {
+    float: right;
+    padding: 16px;
+
+}
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+    display: block;
+    width: 79%;
+    float: right;
+}

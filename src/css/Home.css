@@ -1,0 +1,161 @@
+.Home-div {
+    width: 100%;
+    height: auto;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.Home-t {
+    position: relative;
+    margin-top: -20%;
+    left: 65%;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, .4);
+    transform: translateY(-50%);
+    border-radius: 30px;
+
+
+
+
+}
+
+.Home-img {
+    width: 100%;
+    height: 600px;
+}
+
+.name {
+    font-size: 50px;
+    font-weight: 700;
+    color: #fff;
+
+}
+
+.Home-findcar {
+    font-size: 2.25rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+}
+
+.span {
+    display: block;
+    text-align: center;
+    font-size: 1.225rem;
+    color: #616161;
+    margin-top: 1%;
+
+}
+
+.Home-Container{
+    margin-bottom: 4%;
+}
+
+.icon {
+
+    margin-left: 48%;
+    margin-top: 2%;
+
+
+}
+
+.HImage{
+    height: 180px;
+    margin-top: 15%;
+    margin-left: -5%;
+    
+}
+
+
+.Home-col{
+    margin-left: -40%;
+    margin-top: 8%;
+}
+.Home-form {
+
+    width: 50%;
+    height: 50px;
+    margin-bottom: 2%;
+    
+}
+
+.Home-form:hover{
+    border: 1px solid red;
+}
+
+.Home-text {
+    margin-left: 55%;
+    margin-top: -33.8%;
+}
+
+.Home-textarea:hover{
+    border: 1px solid red;
+}
+
+.Home-textarea {
+    z-index: 10%;
+    position: relative;
+    width: 100%;
+    height: 165px;
+}
+
+.Date{
+  
+    width: 50%;
+    height: 40px;
+    margin-bottom: 3%;
+}
+
+.Date:hover{
+    border: 1px solid red;
+}
+
+.Home-Button{
+    padding: 2%;
+    width: 30%;
+    background-color:green;
+    margin-top: 8%;
+    margin-left: 70%;
+    text-transform: uppercase;
+    
+}
+
+.Ssection-background {
+    position: relative;
+    background-size: cover;
+    padding: 150px 0;
+    width: 100%;
+    text-align: center;
+    margin-top: 8%;
+  }
+  
+  .Ssection-background p {
+    position: relative;
+    margin: 10px 0 0;
+    color: #ffffff;
+  }
+  
+  .Ssection-quote {
+    background: url(../componants/img/banner2.jpeg) center no-repeat fixed;
+  }
+  
+  .Ssection-quote p {
+    margin-top: 0;
+    font-size: 36px;
+  }
+  
+  .Ssection-quote p span {
+    color: #196fc2;
+  }
+  .Sbackground-overlay:before {
+    content: '';
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+  }
